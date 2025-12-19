@@ -1,0 +1,12 @@
+# 環境ファイルは公開しない
+.env
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# 依存関係（必要な場合はプロジェクトに合わせて変更）
+/vendor/
+/node_modules/
